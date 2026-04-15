@@ -116,7 +116,7 @@ Special thanks to [Extern](https://www.extern.com) and [Pfizer](https://www.pfiz
 
 
 <img width="480" height="219" alt="image" src="https://github.com/user-attachments/assets/c8650177-1beb-4c00-8b47-5a8b901fa1e8" />
-<img width="1125.5" height="460" alt="image" src="https://github.com/user-attachments/assets/a5b7b73f-0934-47ea-91c6-1fa258045c44" />
+<img width="562.75" height="230" alt="image" src="https://github.com/user-attachments/assets/a5b7b73f-0934-47ea-91c6-1fa258045c44" />
 
 
 
