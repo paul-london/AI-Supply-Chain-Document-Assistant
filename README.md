@@ -17,6 +17,7 @@ An AI-powered RAG (Retrieval-Augmented Generation) chatbot for pharmaceutical su
 - Local, fully offline inference with Flan-T5 — no API key required
 - Document type inference (clinical, regulatory, label, research, general)
 - Gradio web UI for interactive querying and source citation display
+<img width="468.75" height="113.25" alt="image" src="https://github.com/user-attachments/assets/323a9c88-8ace-4a41-81ef-5f39595a9526" /> 
 
 ---
 
@@ -112,6 +113,12 @@ The notebook includes an evaluation block that measures performance on a 10-ques
 ## Acknowledgements
 
 Special thanks to [Extern](https://www.extern.com) and [Pfizer](https://www.pfizer.com) for creating and hosting the Pfizer Supply Chain Document Processing Externship.
+
+
+<img width="1920" height="438" alt="image" src="https://github.com/user-attachments/assets/c8650177-1beb-4c00-8b47-5a8b901fa1e8" />
+<img width="2251" height="920" alt="image" src="https://github.com/user-attachments/assets/a5b7b73f-0934-47ea-91c6-1fa258045c44" />
+
+
 
 ---
 
