@@ -111,4 +111,10 @@ The notebook includes an evaluation block that measures performance on a 10-ques
 
 ## Acknowledgements
 
-Special thanks to ![Extern](https://www.extern.com) and ![Pfizer](https://www.pfizer.com) for creating and hosting the Pfizer Supply Chain Document Processing Externship.
+Special thanks to [Extern](https://www.extern.com) and [Pfizer](https://www.pfizer.com) for creating and hosting the Pfizer Supply Chain Document Processing Externship.
+
+--
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/palondon)
