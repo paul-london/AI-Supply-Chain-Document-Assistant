@@ -39,14 +39,14 @@ An AI-powered RAG (Retrieval-Augmented Generation) chatbot for pharmaceutical su
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-supply-chain-doc-assistant.git
-cd ai-supply-chain-doc-assistant
+git clone https://github.com/yourusername/AI-Supply-Chain-Document-Assistant.git
+cd AI-Supply-Chain-Document-Assistant
 pip install -r requirements.txt
 ```
 
 ### Running the Notebook
 
-Open `ai_supply_chain_doc_assistant.ipynb` in Jupyter or Google Colab and run all cells in order. The Gradio UI will launch automatically in the final cell.
+Open `AI Supply Chain Document Assistant.ipynb` in Jupyter or Google Colab and run all cells in order. The Gradio UI will launch automatically in the final cell.
 
 1. Upload a pharmaceutical PDF using the file input
 2. Wait for indexing to complete
