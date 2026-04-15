@@ -4,6 +4,12 @@ An AI-powered RAG (Retrieval-Augmented Generation) chatbot for pharmaceutical su
 
 ---
 
+## Screenshot
+
+!<img width="657" height="605" alt="ui" src="https://github.com/user-attachments/assets/fd4337b2-fd68-423d-8d6d-bd407952427d" />
+
+---
+
 ## Features
 
 - Dual-path PDF extraction: PyMuPDF for digital PDFs, Tesseract OCR fallback for scanned pages
