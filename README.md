@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### Running the Notebook
 
-Open `AI Supply Chain Document Assistant.ipynb` in Jupyter or Google Colab and run all cells in order. The Gradio UI will launch automatically in the final cell.
+Open `AI Supply Chain Document Assistant.ipynb` in Jupyter or Google Colab and run all cells in order. The Gradio UI will launch automatically in the final cell. Alternatively, follow the generated link to the Gradio-hosted interface.
 
 1. Upload a pharmaceutical PDF using the file input
 2. Wait for indexing to complete
